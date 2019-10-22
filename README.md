@@ -152,6 +152,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	
 -  **Book for Machine Learning**
     - [Introduction to Statistical Learning](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf) - :free:
+    
+-  **Blog On Machine Learning**
+   - [Exploring Deep Dream using Tensorflow 2.0](https://medium.com/towards-artificial-intelligence/exploring-deep-dream-using-tensorflow-                   2-0-93ecd1091fa3)
 
 
 ## 1.3 Deep Learning
