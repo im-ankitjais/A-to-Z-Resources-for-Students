@@ -87,6 +87,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 > [**Browse this link for detailed information on Python**](Python.md)
 
 - [Learn Python | CodeAcademy](https://www.codecademy.com/learn/learn-python)
+- [DATA STRUCTURES AND ALGORITHMS THROUGH PYTHON IN DEPTH](https://bit.ly/2pbN2G3)
 - [Progate Python Classes](https://progate.com/languages/python) :baby:
 - [Video Tutorial for absolute beginners | YouTube](http://bit.ly/2NkrsKh) :baby:
 - [Intro to Python | Udacity](https://in.udacity.com/course/introduction-to-python--ud1110-india) :free:
