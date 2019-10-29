@@ -361,6 +361,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	
      - **React Native**     
         - [React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/) :heavy_dollar_sign:
+	- [React Native -Tutorial Instagram Clone](https://www.youtube.com/watch?v=o7eB8wG20iw)
 
     - **Redux.js**
         - [Redux Tutorial #1 - React js tutorial - How Redux Works | YouTube](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) :baby:
