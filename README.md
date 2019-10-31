@@ -44,6 +44,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Programming Notes for Professionals](#121-programming-notes-for-professionals)
      - [MATLAB/Octave](#121-matlab/octave)
      - [Go Language](#123-go-language)
+     - [Game Development]
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-top-global-hackathons-)
@@ -569,6 +570,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Go,Progate](https://progate.com/languages/go)
 - [Go lang Tutorial For Beginners,Edureka Youtube](https://www.youtube.com/watch?v=Q0sKAMal4WQ)
 - [Go by Example](https://gobyexample.com/)
+
+## 1.24 Game Development
+- [Create 2D & 3D Games In Unity - Complete Game Developing ](https://www.youtube.com/watch?v=a7rwCBDMyh4&t=74s)
 
 ---
 
