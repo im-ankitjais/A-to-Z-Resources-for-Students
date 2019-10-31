@@ -192,6 +192,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  [Codelabs](https://codelabs.developers.google.com/)
 -  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
 -  [Caster.io](https://caster.io) :heavy_dollar_sign:
+-  [Advance Android development](https://www.youtube.com/watch?v=Zj4_T0EGmU8a)
 
 ## 1.5 Backend Development
 
