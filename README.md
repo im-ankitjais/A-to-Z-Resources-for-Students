@@ -358,7 +358,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
         - [Advanced React | Wes Bos](https://advancedreact.com/) :heavy_dollar_sign:
         - [React Fundamentals | Tyler McGinnis](https://tylermcginnis.com/courses/react-fundamentals/) :heavy_dollar_sign:
         - [Modern React with Redux | Udemy](https://www.udemy.com/react-redux/) :heavy_dollar_sign:
-	
+	- [Clone web apps project walkthrough](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
      - **React Native**     
         - [React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/) :heavy_dollar_sign:
 	- [React Native -Tutorial Instagram Clone](https://www.youtube.com/watch?v=o7eB8wG20iw)
