@@ -569,6 +569,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Go lang Tutorial For Beginners,Edureka Youtube](https://www.youtube.com/watch?v=Q0sKAMal4WQ)
 - [Go by Example](https://gobyexample.com/)
 
+## 1.24 Java Language
+- [Java Tutorial for Beginners](https://goo.gl/p10QfB)
 ---
 
 
