@@ -571,6 +571,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.24 Java Language
 - [Java Tutorial for Beginners](https://goo.gl/p10QfB)
+- [Java Tutorial for Beginners - Made Easy - Step by Step](https://www.youtube.com/watch?v=3u1fu6f8Hto&t=2726s)
 ---
 
 
